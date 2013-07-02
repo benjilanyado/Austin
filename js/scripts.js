@@ -117,7 +117,7 @@ var boxs = [
     {
         selector: '#cover1',
         headline: 'Gruene Hall',
-        copy: "Gruene Hallwas recommended by several readers, including <a target='_blank' href='https://twitter.com/peterkraft/status/349331892941750274%20%20'>@peterkraft</a>. A few seconds after setting foot inside, it was clear why this place is hallowed ground for both musicians and their fans. The ancient dancehall's wooden floorboards were so worn they bounced underfoot. I helped myself to a Shiner Bock and sat down to listen to Danny Bams and Billy Bright.",
+        copy: "Gruene Hall was recommended by several readers, including <a target='_blank' href='https://twitter.com/peterkraft/status/349331892941750274%20%20'>@peterkraft</a>. A few seconds after setting foot inside, it was clear why this place is hallowed ground for both musicians and their fans. The ancient dancehall's wooden floorboards were so worn they bounced underfoot. I helped myself to a Shiner Bock and sat down to listen to Danny Bams and Billy Bright.",
         content: '<img src="images/gruene.jpg">',
         address: "• <a target='_blank' href='http://www.gruenehall.com'>Gruene Hall</a>, 1281 Gruene Rd, New Braunfels, Texas"
     },
@@ -192,7 +192,7 @@ var boxs = [
         headline: "Billy the Kid's final resting place",
         copy: "Baking in the 100-degree sun, the grey gravelled military cemetery looked like a really lonely place to spend eternity. In the middle is Billy the Kid's headstone. On one hand, the Kid is known as a thief and murderer, but his gregarious personality, hardscrabble upbringing and baby face has has secured him a place in wild-west folklore.",
         content: '<img src="images/billlykid.jpg">',
-        address: ""
+        address: "• Billy the Kid Drive, Fort Sumner, New Mexico"
     },
 
     {
@@ -213,10 +213,10 @@ var boxs = [
 
     {
         selector: '#cover17',
-        headline: 'Montezuma Hot Springs',
+        headline: 'Bottomless Lakes',
         copy: "Lea Lake has a large recreation area, paddle posts and foam surfboards. Sadly, we only had enough time to dip our toes, but taking in the gorgeous view - again, brown rock against bright blue water and sky - was reason enough to visit. ",
         content: '<img src="images/montezuma.jpg">',
-        address: ""
+        address: "• <a target='_blank' href='http://www.emnrd.state.nm.us/SPD/bottomlesslakesstatepark.html'>emnrd.state.nm.us</a>, 545 A Bottomless Lakes Road, Roswell"
     },
 
     {
