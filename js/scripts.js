@@ -4,7 +4,7 @@ $(document).ready(function(){
 ///// TILES & UP/DOWN BUTTONS /////
 
 
-var verticalimages = [	"0px", "627px", "1254px", "1881px", "2508px"];
+var verticalimages = [	"0px", "627px", "1254px", "1881px", "2508px", "3135px"];
 
 var lightboxCurrent = 0;
 
